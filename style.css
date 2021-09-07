@@ -48,7 +48,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(4, 1fr);
-    margin: 50px 0px;
+    margin: 30px 0px 40px 0px;
 }
 
 .animales img {
